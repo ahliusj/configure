@@ -1,4 +1,5 @@
 #!/bin/bash
 
-cp -r ref.docx .bashrc ../
+cp -r ~/configure/ref.docx ~/
+cp -r ~/configure/.bashrc ~/
 . ~/.bashrc
