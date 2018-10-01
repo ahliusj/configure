@@ -14,6 +14,7 @@ alias z="fg"
 
 alias e="emacs"
 alias s='emacs -nw -Q'
+alias ed='emacs -Q --script'
 
 alias sd='sudo shutdown -h now'
 alias pandocref='pandoc --reference-doc ~/ref.docx'
