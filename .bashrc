@@ -10,6 +10,8 @@ fi
 
 # User specific aliases and functions
 alias l="ll"
+alias d="ls -ld */"
+
 alias z="fg"
 
 alias e="emacs"
